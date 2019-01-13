@@ -10,13 +10,17 @@ System Requirements
 ===========
 At a minimum your system must have access to 32GB RAM and at least 8 CPU cores for parallel computing. Additionally, the following software components are required:
 
-1)	MATLAB 2016b or higher with the following toolboxes (and their dependencies)
-    a)	Statistics toolbox
-    b)	Optimization toolbox
-    c)	Parallel Computing toolbox
-    d)	Data Acquisition toolbox
+1. MATLAB 2016b or higher with the following toolboxes (and their dependencies):
 
-2)	CVX for MATLAB (version 2.1 or higher)
+    a. Statistics toolbox
+    
+    b. Optimization toolbox
+    
+    c. Parallel Computing toolbox
+    
+    d. Data Acquisition toolbox
+
+2. CVX for MATLAB (version 2.1 or higher)
 
 Documentation
 ==========
