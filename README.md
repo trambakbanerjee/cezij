@@ -11,5 +11,5 @@ References
 =======
 [1.] Banerjee, T., Mukherjee, G., Dutta, S., and Ghosh, P. (2019). A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games. _(under review)_     
 
-[2]: Chen, X. and Xie, M.-g. (2014). A split-and-conquer approach for analysis of extraordinarily large data.
+   [2]: Chen, X. and Xie, M.-g. (2014). A split-and-conquer approach for analysis of extraordinarily large data.
 Statistica Sinica, pages 1655-1684.
