@@ -8,7 +8,7 @@ This repository holds the MATLAB toolbox `cezij.mltbx` that provides an implemen
 
 System Requirements
 ===========
-At a minimum your system must have access to 32GB RAM and at least 8 CPU cores for parallel computing. Additionally, the following software components are required:
+At a minimum your system must have access to 32GB RAM and at least 8 CPU cores for parallel computing. Additionally, the following software components are required. Please make sure that these are already installed before you attempt to install `cezij`.
 
 1. MATLAB 2016b or higher with the following toolboxes (and their dependencies):
 
@@ -24,9 +24,7 @@ At a minimum your system must have access to 32GB RAM and at least 8 CPU cores f
 
 Documentation
 ==========
-
-
-
+This repository includes a help file `cezij help.pdf` that explains how to use this toolbox with the aid of an example.
 
 References
 =======
