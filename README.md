@@ -20,7 +20,7 @@ At a minimum your system must have access to 32GB RAM and at least 8 CPU cores f
     
     d. Data Acquisition toolbox
 
-2. CVX for MATLAB (version 2.1 or higher)
+2. [CVX for MATLAB](http://cvxr.com/cvx/) (version 2.1 or higher)
 
 Documentation
 ==========
