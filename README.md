@@ -4,7 +4,13 @@ CEZIJ [1] is a novel framework for parameter estimation in joint models with mul
 
 How to use this repository?
 =========
-This repository holds the MATLAB toolbox `cezij.mltbx` that provides an implementation of the CEZIJ procedure
+This repository holds the MATLAB toolbox `cezij.mltbx` that provides an implementation of the CEZIJ procedure. To install this toolbox, simply download `cezij.mltbx` in your computer and double click to install it. 
+
+System Requirements
+--------------
+
+Documentation
+--------------
 
 
 
