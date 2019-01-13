@@ -24,7 +24,7 @@ At a minimum your system must have access to 32GB RAM and at least 8 CPU cores f
 
 Documentation
 -----------
-This repository includes a help file `cezij help.pdf` that explains how to use this toolbox with the aid of an example. To start using the toolbox, run `cezij_simulation.m` to reproduce the simulation experiment I in [1]. For using a different simulation setting or a different dataset altogether, please refer to `cezij help.pdf`.
+This repository includes a help file `cezij help.pdf` that explains how to use the toolbox with the aid of an example. To start using the toolbox, run `cezij_simulation.m` to reproduce the simulation experiment I in [1]. For using a different simulation setting or a different dataset altogether, please refer to `cezij help.pdf`.
 
 References
 ----------
