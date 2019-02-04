@@ -28,7 +28,7 @@ This repository includes a help file `cezij help.pdf` that explains how to use t
 
 References
 ----------
-[1.] Banerjee, T., Mukherjee, G., Dutta, S., and Ghosh, P. (2019). A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games. _(under review)_     
+[1.] Banerjee, T., Mukherjee, G., Dutta, S., and Ghosh, P. (2018). A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games. _(under review)_     
 
 [2.] [Chen, X. and Xie, M.-g. (2014). A split-and-conquer approach for analysis of extraordinarily large data.
 Statistica Sinica, pages 1655-1684.](http://www.stat.rutgers.edu/home/mxie/RCPapers/split_and_conquer_rev1_final.pdf)
